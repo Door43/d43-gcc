@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gcc:home|Door43 (gcc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gcc|d43-gcc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gcc/archive/master.zip|d43-gcc.zip]]
+
+**Recent Changes**
+{{changes>ns = gcc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gcc|Ethnologue data]]
+
